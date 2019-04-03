@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* サンプルのSassファイル */
+div {
+  background-color: #ccc; }
+  div h1 {
+    font-size: 2rem; }
+
+h1 {
+  color: #ccc; }
+
+h2 {
+  border: 2px; }

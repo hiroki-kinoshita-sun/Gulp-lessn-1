@@ -1,0 +1,18 @@
+/* サンプルのSassファイル */
+
+$color:#ccc;
+
+div {
+  background-color: $color;
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+h1{
+  color: #ccc
+}
+
+h2{
+  border: 2px;
+}
